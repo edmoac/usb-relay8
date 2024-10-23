@@ -2,4 +2,4 @@
 
 KiCad project of USB relay board, using STM32 microcontroller.
 
-![USB-Relay-Board.png]
+![USB-RLY8](USB-Relay-Board.png)
